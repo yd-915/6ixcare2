@@ -1,7 +1,7 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background: black; 
+  background: #FFF4D7; 
   background-size: cover;
   background-position:center ;
 }
@@ -10,14 +10,14 @@ h1{
   font-size: 90px;
   text-align: center;
   font-family: monospace;
-  color: hsl(0, 0%, 100%);
+  color: #7241FF;
   letter-spacing: 3px
 }
 p{
   font-size: 20px;
   text-align: center;
   font-family: monospace;
-  color: hsl(0, 0%, 100%);
+  color:#7241FF;
   letter-spacing: 3px
 }
 a {
